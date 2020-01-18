@@ -1,0 +1,8 @@
+Tarjeta
+Comida
+Lampara
+Computadora
+Aspiradora
+Arbol
+Parajo
+Pantalla

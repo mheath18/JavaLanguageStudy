@@ -1,0 +1,8 @@
+Card
+Food
+Lamp
+Computer
+Vacuum
+Tree
+Bird
+Screen
